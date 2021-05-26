@@ -5,4 +5,5 @@
 - 🌱 I’m currently studying to be a full stack developer
 - 🐱 I love cats and books <br><br>
 ![gato.png](gato.png)
-<br>
+
+![Nathalia Favero's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaveroNath&show_icons=true&theme=radical)
