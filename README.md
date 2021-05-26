@@ -6,4 +6,3 @@
 - 🐱 I love cats and books <br><br>
 ![gato.png](gato.png)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaveroNath)](https://github-readme-stats.vercel.app/api?username=FaveroNath&show_icons=true&theme=radical)
