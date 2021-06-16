@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently studying computer science at UFABC
 - 🌱 I’m currently studying to be a full stack developer
+- 👩‍💻 I'm interested in game development, competitive programming and AI.
 - 🐱 I love cats and books <br><br>
 ![gato.png](gato.png)
 
